@@ -1,0 +1,11 @@
+super + w
+     firefox
+     
+super + m     
+     st -e cmus
+     
+Print     
+     screenshot
+     
+super + shift + l     
+     betterlockscreen -l
